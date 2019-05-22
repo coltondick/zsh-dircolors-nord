@@ -1,1 +1,1 @@
-zsh-dircolors-solarized.zsh
+zsh-dircolors-nord.zsh
