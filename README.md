@@ -12,7 +12,7 @@ Note that after installing this plugin, the terminal must be restarted or a new 
 1. Clone this repository somewhere on your computer. For example:
 
     ```sh
-    git clone --recursive https://github.com/coltondick/zsh-dircolors-solarized.git ~/.zsh/zsh-dircolors-nord
+    git clone --recursive https://github.com/coltondick/zsh-dircolors-nord.git ~/.zsh/zsh-dircolors-nord
     ```
 
 2. Add the following snippet to your `.zshrc`:
@@ -29,7 +29,7 @@ also compatible with other plugin managers.
 1. Add the following line in your `.zshrc`:
 
     ```
-    antigen bundle coltondick/zsh-dircolors-solarized.git
+    antigen bundle coltondick/zsh-dircolors-nord.git
     ```
 
 ### Oh-my-zsh
@@ -37,7 +37,7 @@ also compatible with other plugin managers.
 1. Clone this repository into `$ZSH_CUSTOM/plugins` (by default `~/.oh-my-zsh/custom/plugins`)
 
     ```sh
-    git clone --recursive https://github.com/coltondick/zsh-dircolors-solarized.git $ZSH_CUSTOM/plugins/zsh-dircolors-nord
+    git clone --recursive https://github.com/coltondick/zsh-dircolors-nord.git $ZSH_CUSTOM/plugins/zsh-dircolors-nord
     ```
 
 2. Add the plugin to the list of plugins for Oh My Zsh to load:
