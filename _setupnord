@@ -1,0 +1,2 @@
+#compdef setupnord
+_arguments "1: :($(lsnord | tr "\n" " "))"

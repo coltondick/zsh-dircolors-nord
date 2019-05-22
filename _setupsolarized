@@ -1,2 +1,0 @@
-#compdef setupsolarized
-_arguments "1: :($(lssolarized | tr "\n" " "))"
