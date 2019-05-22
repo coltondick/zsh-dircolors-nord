@@ -1,0 +1,3 @@
+[submodule "nord-dircolors"]
+	path = nord-dircolors
+	url = https://github.com/arcticicestudio/nord-dircolors.git
