@@ -54,3 +54,11 @@ This plugin offers two commands:
   the configuration file (`$HOME/.zsh-dircolors.config` by default).
 
 `setupnord` must be run at least once in order to create the configuration file. After doing so, the plugin will automatically load your configuration each time a zsh session is started.
+
+## Contributing
+
+If you find any bugs or have suggestions for improvements, please open an issue or pull request on the GitHub repository.
+
+## License
+
+This script is licensed under the [MIT License](LICENSE).
